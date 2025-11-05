@@ -1,0 +1,2 @@
+import arupcomputepy
+arupcomputepy.test()
